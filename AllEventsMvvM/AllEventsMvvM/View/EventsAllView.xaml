@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="AllEventsMvvM.View.EventsAllView"
+             Title="{Binding NewPage}">
+    <ContentPage.Content>
+        <StackLayout>
+            <!--<Label x:Name="label" Text="Sunrise" FontSize="Large" TextColor="Brown"/>
+            <Label.GestureRecognizers>
+                <TapGestureRecognizer Command="{Binding ForgotPasswordCommand}" />
+            </Label.GestureRecognizers>
+            </Label>-->
+            <!--<Entry x:Name="etn" Placeholder="Type Something" />
+            <Entry x:Name="etnN" Placeholder="Type Something" IsPassword="True"/>
+            <Button x:Name="btn" Text="Login" />
+            <CheckBox x:Name="check" IsChecked="True" />
+            <Image x:Name="image" WidthRequest="70" HeightRequest="70"/>
+            <Image Source="icon.png" WidthRequest="35" HeightRequest="70"/>
+            <Switch x:Name="switchonoff"/>
+            <Slider x:Name="sli" Maximum="50"/>
+            <SearchBar x:Name="search" Placeholder="search somthinhg"/>-->
+            
+           <!--Note:MVVM-->
+
+            <Label Text="Sunrise" FontSize="Large" TextColor="Brown">
+            <Label.GestureRecognizers>
+                <TapGestureRecognizer Command="{Binding ForgotPasswordCommand}" />
+            </Label.GestureRecognizers>
+            </Label>
+            <Entry Text="{Binding uid}" Placeholder="Type something"/>
+            <Entry Text="{Binding uidpass}" Placeholder="Type password" IsPassword="True"/>
+            <Button Command="{Binding loginclick}" Text="Login"/>
+
+
+            <CheckBox  IsChecked="{Binding IsChecked}"/>
+            <!--<CheckBox Command="{Binding checkoperation }"/>-->
+            <CheckBox IsChecked="True"/>
+            <Image Source="icon.png">
+                <Image.GestureRecognizers>
+                    <TapGestureRecognizer Command="{Binding icon}"/>
+                </Image.GestureRecognizers>
+            </Image>
+            
+            <!--<Switch Toggled="{Binding switchponoff}"/>
+            <Slider ={Binding slider"/>>-->
+
+
+
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

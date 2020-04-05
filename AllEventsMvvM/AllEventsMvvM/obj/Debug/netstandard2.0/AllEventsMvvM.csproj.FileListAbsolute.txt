@@ -1,0 +1,14 @@
+C:\Users\santosh\source\repos\AllEventsMvvM\AllEventsMvvM\AllEventsMvvM\bin\Debug\netstandard2.0\AllEventsMvvM.deps.json
+C:\Users\santosh\source\repos\AllEventsMvvM\AllEventsMvvM\AllEventsMvvM\bin\Debug\netstandard2.0\AllEventsMvvM.dll
+C:\Users\santosh\source\repos\AllEventsMvvM\AllEventsMvvM\AllEventsMvvM\bin\Debug\netstandard2.0\ref\AllEventsMvvM.dll
+C:\Users\santosh\source\repos\AllEventsMvvM\AllEventsMvvM\AllEventsMvvM\bin\Debug\netstandard2.0\AllEventsMvvM.pdb
+C:\Users\santosh\source\repos\AllEventsMvvM\AllEventsMvvM\AllEventsMvvM\obj\Debug\netstandard2.0\AllEventsMvvM.csprojAssemblyReference.cache
+C:\Users\santosh\source\repos\AllEventsMvvM\AllEventsMvvM\AllEventsMvvM\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\santosh\source\repos\AllEventsMvvM\AllEventsMvvM\AllEventsMvvM\obj\Debug\netstandard2.0\View\EventsAllView.xaml.g.cs
+C:\Users\santosh\source\repos\AllEventsMvvM\AllEventsMvvM\AllEventsMvvM\obj\Debug\netstandard2.0\AllEventsMvvM.AssemblyInfoInputs.cache
+C:\Users\santosh\source\repos\AllEventsMvvM\AllEventsMvvM\AllEventsMvvM\obj\Debug\netstandard2.0\AllEventsMvvM.AssemblyInfo.cs
+C:\Users\santosh\source\repos\AllEventsMvvM\AllEventsMvvM\AllEventsMvvM\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\santosh\source\repos\AllEventsMvvM\AllEventsMvvM\AllEventsMvvM\obj\Debug\netstandard2.0\AllEventsMvvM.dll
+C:\Users\santosh\source\repos\AllEventsMvvM\AllEventsMvvM\AllEventsMvvM\obj\Debug\netstandard2.0\ref\AllEventsMvvM.dll
+C:\Users\santosh\source\repos\AllEventsMvvM\AllEventsMvvM\AllEventsMvvM\obj\Debug\netstandard2.0\AllEventsMvvM.pdb
+C:\Users\santosh\source\repos\AllEventsMvvM\AllEventsMvvM\AllEventsMvvM\obj\Debug\netstandard2.0\View\WorkPage1.xaml.g.cs
